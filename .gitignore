@@ -1,10 +1,4 @@
 
-Übung 2/data/cifar-10-batches-py/batches.meta
-Übung 2/data/cifar-10-batches-py/data_batch_1
-Übung 2/data/cifar-10-batches-py/data_batch_2
-Übung 2/data/cifar-10-batches-py/data_batch_3
-Übung 2/data/cifar-10-batches-py/data_batch_4
-Übung 2/data/cifar-10-batches-py/data_batch_5
-Übung 2/data/cifar-10-batches-py/readme.html
-Übung 2/data/cifar-10-batches-py/test_batch
-Übung 2/data/cifar-10-python.tar.gz
+Übung 2/data/
+Übung 2/runs/
+Übung 2/cifar_net.pth
